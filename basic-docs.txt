@@ -1,0 +1,5 @@
+Why use TypeScript?
+- Type errors are caught at compile time
+- Richer Editor Support (autocompletion)
+- Easier to read & understand the code
+- Better developer experience (debugging)
